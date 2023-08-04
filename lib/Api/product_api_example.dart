@@ -45,6 +45,7 @@ class _ProductApiExampleState extends State<ProductApiExample> {
             itemBuilder: (BuildContext context, int index) {
               return Container(
                 //changes
+                //added
                 height: 300,
                 width: 200,
                 color: Colors.grey.shade200,
